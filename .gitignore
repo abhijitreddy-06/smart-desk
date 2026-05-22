@@ -1,0 +1,17 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+.streamlit/
+.cache/
+build/
+dist/
+*.egg-info/
+.idea/
+.vscode/
+.DS_Store
+chroma_db/
+pdfs/
